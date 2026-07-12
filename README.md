@@ -1,1 +1,1 @@
-# github-actions-playwright-demo
+# Github Actions Playwright Demo
